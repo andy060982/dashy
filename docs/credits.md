@@ -175,20 +175,13 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/dr460nf1r3">
-            <img src="https://avatars.githubusercontent.com/u/12834713?v=4" width="80;" alt="dr460nf1r3"/>
-            <br />
-            <sub><b>Nico</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/XertDev">
             <img src="https://avatars.githubusercontent.com/u/16572811?v=4" width="80;" alt="XertDev"/>
             <br />
             <sub><b>Xert</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/StevKast">
             <img src="https://avatars.githubusercontent.com/u/17804308?v=4" width="80;" alt="StevKast"/>
@@ -215,6 +208,13 @@
             <img src="https://avatars.githubusercontent.com/u/42270947?v=4" width="80;" alt="rubjo"/>
             <br />
             <sub><b>Rubjo</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/PlusaN">
+            <img src="https://avatars.githubusercontent.com/u/61884717?v=4" width="80;" alt="PlusaN"/>
+            <br />
+            <sub><b>Andrey</b></sub>
         </a>
     </td></tr>
 </table>
